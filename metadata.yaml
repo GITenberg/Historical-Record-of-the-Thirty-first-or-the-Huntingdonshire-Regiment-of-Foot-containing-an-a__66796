@@ -1,0 +1,29 @@
+_repo: Historical-Record-of-the-Thirty-first-or-the-Huntingdonshire-Regiment-of-Foot-containing-an-a__66796
+_version: 0.0.1
+alternative_title: Historical Record of the 31st Foot
+creator:
+  author:
+    agent_name: Cannon, Richard
+    birthdate: 1779
+    deathdate: 1865
+    gutenberg_agent_id: '45414'
+    url: http://www.gutenberg.org/2009/agents/45414
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Cannon
+description: ''
+gutenberg_issued: '2021-11-23'
+identifiers:
+  gutenberg: '66796'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Historical records of the British Army
+subjects:
+- !lcsh 'Great Britain. Army. Regiment of Foot, 31st'
+- !lcc 'UA'
+- !lcsh 'Great Britain. Army -- History'
+- GITenberg
+title: "Historical Record of the Thirty-first, or, the Huntingdonshire Regiment of\
+  \ Foot;\r\ncontaining an account of the formation of the regiment in 1702,  and\
+  \ of its subsequent services to 1850"
+url: http://www.gutenberg.org/ebooks/66796
